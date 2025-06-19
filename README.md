@@ -45,6 +45,12 @@ Through exploratory data analysis, statistical testing (ANOVA), and robust model
 
 ---
 
+## Project Screenshot
+
+![App UI Screenshot](https://drive.google.com/uc?export=view&id=16XyDa1zo6ch9crDlKTL8P46I1PHd_mYj)
+
+
+
 ## 🛠 Tech Stack
 
 | Component        | Tool / Library         |
